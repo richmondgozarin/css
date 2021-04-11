@@ -1,6 +1,7 @@
-# Learn CSS3
+# ES6 & CSS3 Projects
 
-## Pseudo Elements
-## Hover
-## Hover Image
-## Digital Clock using Flex / ES6
+## Table of Contents:
+  * Pseudo Elements
+  * Hover
+  * Hover Image
+  * Digital Clock using Flex / ES6
